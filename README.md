@@ -13,3 +13,6 @@ __Simple calculator for basic operations on numbers.__
 арифметического действия, ввести второй операнд и нажать клавишу «=» чтобы получить
 результат или продолжить ввод, нажав знак арифметической операции для продолжения
 вычислений.
+
+# Presentation
+![image](https://user-images.githubusercontent.com/69788775/197461237-2ff61d2f-6acc-47d7-a75a-00d3de9002a3.png)
