@@ -14,7 +14,7 @@ Requirements:
 - Получить код:
 
 ```
-git clone https://github.com/kg0ez/MyCalculator.git
+https://github.com/BobkoAnatoly/Calculator.git
 ```
 - Откройте src\Calculator.sln в Visual Studio, чтобы создать и запустить приложение MyCalculator
 
